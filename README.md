@@ -1,8 +1,3 @@
-<style>
-  .anim{
-    color: red;
-  }
-</style>
 Olá! Eu sou Nilo!👋<br><br>
 <p class="anim">Sou desenvolvedor Fullstack Javascript focado no Backend.</p><br><br>
 Skills Relevantes:<br>
