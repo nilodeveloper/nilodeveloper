@@ -7,3 +7,8 @@ Main skills:<br>
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="20"/></span>
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20"/></span>
 <span><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="20"/></span>
+<hr>
+<p>🐧 is my favorite system (debian-based in most cases)</p>
+<p>🔒 I am increasingly interested in information security.</p>
+<p>🖥 Javascript is my favorite language.</p>
+<p>🤖 I intend to study machine learning as soon as possible.</p>
