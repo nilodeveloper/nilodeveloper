@@ -12,3 +12,4 @@ Main skills:<br>
 <div>🔒 I am increasingly interested in information security.</div>
 <div>🖥 Javascript is my favorite language.</div>
 <div>🤖 I intend to study machine learning as soon as possible.</div>
+<div>🐍 For the above reason, this language interested me a lot</div>
