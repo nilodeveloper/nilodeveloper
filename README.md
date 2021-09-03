@@ -7,6 +7,7 @@ Main skills:<br>
 <span><img alt="ExpressJS" src="http://www.userlogos.org/files/logos/2690_fernandosantucci/expressjs.logo_.png" width="40"/></span>
 <span><img alt="Docker" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" width="50"/></span>
 <span><img alt="AWS" src="https://logodownload.org/wp-content/uploads/2017/11/amazon-web-services-logo-1.png" width="90"/></span>
+<span><img alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" width="50"/></span>
 <hr>
 <div>🐧 is my favorite system (debian-based in most cases)</div>
 <div>🔒 I am increasingly interested in information security.</div>
