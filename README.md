@@ -12,5 +12,5 @@ Main skills:<br>
 <hr>
 <div>🐧 is my favorite system (debian-based in most cases)</div>
 <div>🔒 I am increasingly interested in information security.</div>
-<div>🖥 Javascript is my favorite language.</div>
+<div>🖥 Javascript is my favorite web language.</div>
 <div>🔄 Increasingly studying the DevOps culture</div>
