@@ -10,7 +10,7 @@ Main skills:<br>
 <span><img alt="AWS" src="https://logodownload.org/wp-content/uploads/2017/11/amazon-web-services-logo-1.png" width="90"/></span>
 <span><img alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" width="50"/></span>
 <hr>
-<div>🐧 is my favorite system (debian-based in most cases)</div>
+<div>🐧 is my favorite system (Arch Linux is my ❤️)</div>
 <div>🔒 I am increasingly interested in information security.</div>
 <div>🖥 Javascript is my favorite web language.</div>
 <div>🔄 Increasingly studying the DevOps culture</div>
